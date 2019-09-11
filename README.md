@@ -57,13 +57,13 @@ Next activate your new environment and install keras, opencv, and jupyter.
 - Start an interaction session: 
         
    `swrun -p gpux1`
-- Start a jupyter session on the comuter node:   
+- Start a jupyter session on the compute node:   
    
    `unset XDG_RUNTIME_DIR` 
    
    `jupyter notebook --ip=0.0.0.0 --port=6006`
    
-- Tunnel into the compute node from loacl machine:
+- Tunnel into the compute node from local machine:
 
     `ssh -L 8888:<remote_machine>:6007 <netid>@hal.ncsa.illinois.edu`
     
