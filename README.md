@@ -1,12 +1,25 @@
 # Intro.
 
-This tutorial covers the basics of Deep Learning with Convolutional Neural Nets. The tutorial is broken into three notebooks:
+This tutorial covers the basics of Deep Learning with Convolutional Neural Nets. The tutorial is broken into three notebooks. The topics covered in each notebook are:
 
 1. **Intro.ipynb**: 
 
-2. **Mnist.ipynb**:
+      - *Linear Regression* as _single layer, single neuron model_ to motivate the introduction of Neural Networks as Universal Approximators that are modeled as collections of neurons connected in an acyclic graph
+      - _Convolutions_ and examples of simple _image filters_ to motivate the construction of _Convolutionlal Neural Networks._
+      - Loss/Error functions, Gradient Decent, Backpropagation, etc
 
-3. **CIFAR-10.ipynb**:
+2. **Mnist.ipynb**: 
+
+    - Visualizing Data
+    - Constructing simple Convolutional Neural Networks
+    - Training and Inference
+    - Visualizing/Interpreting trained Neural Nets
+
+3. **CIFAR-10.ipynb**: 
+
+    - Data Generators
+    - Overfitting
+    - Data Augmentation
 
 
 
