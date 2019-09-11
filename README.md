@@ -1,4 +1,4 @@
-# Intro.
+# Intro. to Deep Learning on HAL
 
 This tutorial covers the basics of Deep Learning with Convolutional Neural Nets. The tutorial is broken into three notebooks. The topics covered in each notebook are:
 
