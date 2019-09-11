@@ -1,5 +1,7 @@
 # Intro. to Deep Learning on HAL
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khanx169/hal_tutorial/master)
+
 This tutorial covers the basics of Deep Learning with Convolutional Neural Nets. The tutorial is broken into three notebooks. The topics covered in each notebook are:
 
 1. **Intro.ipynb**: 
