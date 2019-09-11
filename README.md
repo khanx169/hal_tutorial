@@ -54,20 +54,20 @@ b) _git clone this repo to your home dir_
 
 c) _Now let's run an interactive session with Jupyter Notebook_:
 
-1. Start an interaction session: 
+- Start an interaction session: 
         
    `swrun -p gpux1`
-2. Start a jupyter session on the comuter node:   
+- Start a jupyter session on the comuter node:   
    
    `unset XDG_RUNTIME_DIR` 
    
    `jupyter notebook --ip=0.0.0.0 --port=6006`
    
-3. Tunnel into the compute node from loacl machine:
+- Tunnel into the compute node from loacl machine:
 
     `ssh -L 8888:<remote_machine>:6007 <netid>@hal.ncsa.illinois.edu`
     
-4. Direct your webbrowser to: `https://localhost:8888`. It will promt for a pass code, which can be found at `$HOME/.jupyter/.jupyter_pass`
+- Direct your webbrowser to: `https://localhost:8888`. It will promt for a pass code, which can be found at `$HOME/.jupyter/.jupyter_pass`
 
 
 To learn more about how to use HAL see the slides [here](http://www.ncsa.illinois.edu/assets/pdf/enabling/deep_learning_mri/hal/fall19/mu_start.pdf) 
