@@ -40,16 +40,16 @@ To request access to the system, please see the official wikipage: https://wiki.
 
 **a)** _Log in to HAL_:
 
-- ssh into hal
-- module load powerai
+- ssh into hal: `ssh <netid>@hal.ncsa.illinois.edu`
+- Load PowerAI: `module load powerai`
 
 Now clone the PowerAI conda envirnment (we'd need to install additional packages): 
 
-- conda create --name [your_env_name] --clone powerai_env
+- `conda create --name [your_env_name] --clone powerai_env`
 
 Next activate your new environment and install keras, opencv, and jupyter.
 
-**b)** _git clone this repo to your home dir_
+**b)** _`git clone` this repo to your home dir_
 
 
 **c)** _Now let's run an interactive session with Jupyter Notebook_:
