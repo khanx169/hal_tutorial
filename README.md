@@ -38,7 +38,7 @@ To request access to the system, please see the official wikipage: https://wiki.
 
 **Quick Setup for this tutorial**:
 
-a) _Log in to HAL_:
+**a)** _Log in to HAL_:
 
 - ssh into hal
 - module load powerai
@@ -49,10 +49,10 @@ Now clone the PowerAI conda envirnment (we'd need to install additional packages
 
 Next activate your new environment and install keras, opencv, and jupyter.
 
-b) _git clone this repo to your home dir_
+**b)** _git clone this repo to your home dir_
 
 
-c) _Now let's run an interactive session with Jupyter Notebook_:
+**c)** _Now let's run an interactive session with Jupyter Notebook_:
 
 - Start an interaction session: 
         
