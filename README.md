@@ -49,7 +49,7 @@ Now clone the PowerAI conda envirnment (we'd need to install additional packages
 
 Next activate your new environment and install keras, opencv, and jupyter.
 
-**b)** _`git clone` this repo to your home dir_
+**b)** _git clone this repo to your home dir_
 
 
 **c)** _Now let's run an interactive session with Jupyter Notebook_:
