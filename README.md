@@ -1,5 +1,6 @@
 # Intro. to Deep Learning on HAL
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khanx169/hal_tutorial/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khanx169/hal_tutorial/master)
 
 This tutorial covers the basics of Deep Learning with Convolutional Neural Nets. The tutorial is broken into three notebooks. The topics covered in each notebook are:
@@ -25,7 +26,7 @@ This tutorial covers the basics of Deep Learning with Convolutional Neural Nets.
 
 
 
-The tutorial is aimed at new hal system users. Below are brief instructions for getting started with HAL to run these notebooks.
+The tutorial is aimed at new hal system users. Below are brief instructions for getting started with HAL to run these notebooks. 
 
 ## HAL (Hardware-Accelerated Learning) cluster:
 
@@ -69,7 +70,7 @@ Next activate your new environment and install keras, opencv, and jupyter.
 
     `ssh -L 8888:<remote_machine>:6007 <netid>@hal.ncsa.illinois.edu`
     
-- Direct your webbrowser to: `https://localhost:8888`. It will promt for a pass code, which can be found at `$HOME/.jupyter/.jupyter_pass`
+- Direct your webbrowser to: `https://localhost:8888`. It will prompt for a pass code, which can be found at `$HOME/.jupyter/.jupyter_pass`
 
 
 To learn more about how to use HAL see the slides [here](http://www.ncsa.illinois.edu/assets/pdf/enabling/deep_learning_mri/hal/fall19/mu_start.pdf) 
