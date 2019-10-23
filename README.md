@@ -76,3 +76,13 @@ Next activate your new environment and install keras, opencv, and jupyter.
 To learn more about how to use HAL see the slides [here](http://www.ncsa.illinois.edu/assets/pdf/enabling/deep_learning_mri/hal/fall19/mu_start.pdf) 
 and the official wikipage
 
+
+__References:__
+
+The code examples presented here are mostly taken (verbatim) or inspired from the following sources. I made this curation to give a quick exposure to very basic but essential ideas/practices in deep learning to get you started fairly quickly, but I recommend going to some or all of the actual sources for an in depth survey:
+
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [Deep Learnig Specialization, Andrew Ng](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton)
+- [PyTorch Challenge, Udacity](https://www.udacity.com/facebook-pytorch-scholarship)
+- [Deep Learning with Python](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+- [Keras Blog](https://blog.keras.io/)
